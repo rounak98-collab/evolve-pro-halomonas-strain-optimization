@@ -1,26 +1,23 @@
 # Evolve-Pro: Halomonas Research
 
-A computational research project investigating *Halomonas* biology, ectoine-related pathways, and data-driven analysis.
+A computational research project exploring *Halomonas* biology, ectoine-related pathways, and reproducible data analysis.
 
 ## Repository contents
 
-- [`Evolve_Pro.ipynb`](Evolve_Pro.ipynb) — Google Colab/Jupyter notebook uploaded for the project.
+- [`Evolve_Pro.ipynb`](Evolve_Pro.ipynb) — original Google Colab/Jupyter workflow.
+- [`notebooks/HALOMONAS_ULTIMATE_PIPELINE_SIMULATION_DEMO.ipynb`](notebooks/HALOMONAS_ULTIMATE_PIPELINE_SIMULATION_DEMO.ipynb) — a clearly labeled synthetic-data demonstration for exploring pipeline structure and plotting.
 
 ## Project goals
 
-- Organize relevant literature and biological datasets.
+- Organize traceable literature and biological datasets.
 - Develop reproducible Python and Google Colab workflows.
 - Document data sources, methods, assumptions, and analysis limitations.
 - Support evidence-based investigation of microbial biotechnology.
 
-## Status
+## Status and interpretation
 
-Research and pipeline development in progress. The notebook should be reviewed and run end-to-end before its outputs are treated as validated findings.
+Research and pipeline development are in progress. The simulation demo uses synthetic values; it does not establish experimental findings or validate biological claims. Outputs from either notebook should be reviewed and run end-to-end, and any scientific conclusions should be checked against traceable source datasets and appropriate statistical methods.
 
-## Reproducibility and interpretation
+## Reproducibility and data privacy
 
-Results depend on the source datasets, methods, assumptions, and validation procedures. Treat computational outputs as exploratory until checked against source evidence and suitable validation.
-
-## Data and privacy
-
-Do not commit access tokens, passwords, private or patient-identifiable information, or datasets without permission to redistribute them.
+Document dataset provenance, software requirements, analysis assumptions, and validation steps. Do not commit access tokens, passwords, private or patient-identifiable information, or datasets without permission to redistribute them.
