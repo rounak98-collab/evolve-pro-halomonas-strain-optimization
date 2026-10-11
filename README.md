@@ -1,21 +1,25 @@
 # Evolve-Pro: Halomonas Research
 
-Computational research project investigating *Halomonas* biology, ectoine-related pathways, and data-driven analysis.
+A computational research project investigating *Halomonas* biology, ectoine-related pathways, and data-driven analysis.
+
+## Repository contents
+
+- [`Evolve_Pro.ipynb`](Evolve_Pro.ipynb) — Google Colab/Jupyter notebook uploaded for the project.
 
 ## Project goals
 
 - Organize relevant literature and biological datasets.
-- Develop reproducible Google Colab and Python workflows.
-- Document data sources, methods, and analysis limitations.
+- Develop reproducible Python and Google Colab workflows.
+- Document data sources, methods, assumptions, and analysis limitations.
 - Support evidence-based investigation of microbial biotechnology.
 
-## Current status
+## Status
 
-Research and pipeline development in progress. This repository will be updated as the notebook, source code, datasets, and validation documentation are added.
+Research and pipeline development in progress. The notebook should be reviewed and run end-to-end before its outputs are treated as validated findings.
 
 ## Reproducibility and interpretation
 
-Results depend on the source datasets, methods, and validation procedures. Treat computational outputs as exploratory until independently checked against source evidence and suitable validation.
+Results depend on the source datasets, methods, assumptions, and validation procedures. Treat computational outputs as exploratory until checked against source evidence and suitable validation.
 
 ## Data and privacy
 
